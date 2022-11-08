@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi I am Pablo Magalhães, welcome !!! 👋
 
-<!--
-**PabloRMCarneiro/PabloRMCarneiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in iJunior;
+- 🌱 I’m currently learning Front End, Machine Learning and Cloud Computing;
+- 💬 Ask me about Front End and C++ stufs;
+- 📫 How to reach me: pryancarneiro@gmail.com;
+- ⚡ Fun fact: I love music eletronic and its culture.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/PabloRMCarneiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PabloRMCarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRMCarneiro&layout=compact&langs_count=7&theme=dracula"/>
+</div>
