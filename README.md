@@ -1,6 +1,6 @@
 ### Hi I am Pablo Magalhães, welcome !!! 👋
 
-- 🔭 I’m currently working in iJunior;
+- 🔭 I’m currently working in Dito;
 - 🌱 I’m currently learning Front End, Machine Learning and Cloud Computing;
 - 💬 Ask me about Front End and C++ stufs;
 - 📫 How to reach me: pryancarneiro@gmail.com;
