@@ -5,7 +5,7 @@
 - 💬 Ask me about Front End and C++ stufs;
 - 📫 How to reach me: pryancarneiro@gmail.com;
 - ⚡ Fun fact: I love music eletronic and its culture;
-- 🌐 My portfolio: https://pablo-magalhaes-portfolio.netlify.app/
+- 🌐 My portfolio: https://pablo-magalhaes-portfolio.netlify.app/ ( under construction )
 
 <div align="center">
   <a href="https://github.com/PabloRMCarneiro">
